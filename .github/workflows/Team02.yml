@@ -1,0 +1,51 @@
+name: "Test module00"
+
+on:
+  push:
+    branches:
+      - Team02
+      - "feature/*" # Trigger on any feature branch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install GCC
+        run: |
+          sudo apt update
+          sudo apt install -y gcc g++
+
+      - name: Compile C++ Program
+        run: g++ -o module00/ex02/convert module00/ex02/src/main.cpp
+
+      - name: permissions
+        run: chmod +x module00/ex02/tests/test_script.sh
+
+      - name: Run Tests
+        run: module00/ex02/tests/test_script.sh > module00/ex02/tests/logs/test_output.log
+
+      - name: Check Test Results
+        if: failure()
+        run: echo "Tests failed."
+        continue-on-error: true
+
+      # - name: Create Issue on Failure
+      #   if: failure()
+      #   uses: peter-evans/create-issue-from-file@v5
+      #   with:
+      #     title: "Automated Test Failure"
+      #     content-filepath: "tests/logs/test_output.log"
+      #     labels: Backlog
+
+      # - name: Create Pull Request on Success
+      #   if: success()
+      #   uses: peter-evans/create-pull-request@v7
+      #   with:
+      #     branch: test-branch # Define the branch name
+      #     base: Team02 # Define the target branch
+      #     title: "Automated Test PR"
+      #     body: "All tests passed, automatically creating a PR for this branch."
