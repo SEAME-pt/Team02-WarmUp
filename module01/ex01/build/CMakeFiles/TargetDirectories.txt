@@ -1,3 +1,0 @@
-/mnt/c/Users/Rui Pires/SEAME-WarmUp-24-25/module01/ex01/build/CMakeFiles/car.dir
-/mnt/c/Users/Rui Pires/SEAME-WarmUp-24-25/module01/ex01/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Rui Pires/SEAME-WarmUp-24-25/module01/ex01/build/CMakeFiles/rebuild_cache.dir
