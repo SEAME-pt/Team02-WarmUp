@@ -1,4 +1,4 @@
-name: Task
+name: Task Template
 description: A template for creating detailed tasks with all necessary information.
 title: "[Task] "
 labels: 
