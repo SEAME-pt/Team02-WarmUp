@@ -10,6 +10,3 @@
 [submodule "Module03"]
 	path = Module03
 	url = git@github.com:SEAME-pt/Team02-Module03.git
-[submodule "Module04"]
-	path = Module04
-	url = git@github.com:SEAME-pt/Team02-Module04.git
