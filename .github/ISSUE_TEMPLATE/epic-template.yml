@@ -1,4 +1,4 @@
-name: Epic
+name: Epic Template
 description: A template for creating detailed epics with all necessary information.
 title: "[Epic] "
 labels: 
@@ -17,16 +17,6 @@ body:
       description: Describe the objective of this epic, including the broader goals and outcomes expected.
     validations:
       required: true
-
-  - type: textarea
-    id: stories_in_epic
-    attributes:
-      label: Stories in this Epic
-      description: List the stories that belong to this epic. Add each story as a link or reference number on a new line.
-      placeholder: |
-        - [ ] #
-    validations:
-      required: false
 
   - type: dropdown
     id: priority
