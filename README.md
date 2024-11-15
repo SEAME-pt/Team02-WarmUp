@@ -1,4 +1,4 @@
-#**WarmUp Project**  
+# **WarmUp Project**  
 #### *SEA:ME Software Engineering in Automotive and Mobility Ecosystems*
 
 Welcome to the **WarmUp Project**, where our team explores the fundamentals of software engineering for automotive and mobility ecosystems. Through structured modules, we've built skills in **C++**, **Qt**, and **multi-threading**, culminating in exciting projects.
