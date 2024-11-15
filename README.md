@@ -8,7 +8,7 @@ Welcome to the **WarmUp Project**, where our team explores the fundamentals of s
 
 ## 📚 **Project Overview**
 
-This project consists of five modules, each designed to develop and enhance specific programming concepts, with a special focus on **Modules 03** and **04**.
+This project consists of five modules, each designed to develop and enhance specific programming concepts.
 
 ---
 
