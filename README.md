@@ -80,6 +80,11 @@ We created a **multi-threaded racing game** to simulate the dynamics of cars on 
 
 We are a group of students from **SEA:ME (Software Engineering in Automotive and Mobility Ecosystems)**, passionate about building solutions for the future of mobility. Our focus lies in mastering advanced software concepts to tackle real-world challenges in the automotive industry.
 
+| [![Rui Pedro Pires](https://github.com/Rui-Pedro-Pires.png?size=50)](https://github.com/Rui-Pedro-Pires) | [![ziliolu](https://github.com/ziliolu.png?size=50)](https://github.com/ziliolu) | [![Luis FFE](https://github.com/luis-ffe.png?size=50)](https://github.com/luis-ffe) | [![M Jorge Cruz](https://github.com/mjorgecruz.png?size=50)](https://github.com/mjorgecruz) |
+|:-------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+| [Rui Pedro Pires](https://github.com/Rui-Pedro-Pires)                                                  | [ziliolu](https://github.com/ziliolu)                                           | [Luis FFE](https://github.com/luis-ffe)                                           | [M Jorge Cruz](https://github.com/mjorgecruz)                                             |
+
+
 ---
 
 ## 💻 **Repository Information**
