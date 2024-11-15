@@ -1,4 +1,4 @@
-name: Story
+name: Story Template
 description: A template for creating detailed stories with all necessary information.
 title: "[Story] "
 labels: 
@@ -18,23 +18,13 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: epic_reference
     attributes:
       label: Epic Reference
       description: Link to the associated Epic that this story belongs to.
       placeholder: |
         #
-    validations:
-      required: false
-
-  - type: textarea
-    id: tasks_in_story
-    attributes:
-      label: Tasks in this Story
-      description: List the tasks that belong to this story. Add each task as a link or reference number on a new line.
-      placeholder: |
-        - [ ] #
     validations:
       required: false
 

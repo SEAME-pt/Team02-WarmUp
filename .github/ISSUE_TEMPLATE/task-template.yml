@@ -1,25 +1,14 @@
-name: Task
+name: Task Template
 description: A template for creating detailed tasks with all necessary information.
 title: "[Task] "
 labels: 
   - task
-  - enhancement
-assignees:
-  - ''
 
 body:
   - type: markdown
     attributes:
       value: |
         ## Task
-
-  - type: input
-    id: task_title
-    attributes:
-      label: Title
-      description: Briefly describe the purpose of the task.
-    validations:
-      required: true
 
   - type: textarea
     id: description
@@ -35,26 +24,26 @@ body:
       label: Priority
       description: Select the priority level.
       options:
+        - Critical
         - High
         - Medium
         - Low
     validations:
       required: true
 
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: Checklist
-      description: List the sub-tasks required for this task.
-      options:
-        - label: Sub-task 1
-        - label: Sub-task 2
-        - label: Sub-task 3
 
-  - type: input
-    id: epic_reference
+  - type: textarea
+    id: story_reference
     attributes:
-      label: Epic Reference
-      description: Link to the associated Epic or Story.
+      label: Story Reference
+      description: Link to the associated Story.
+      placeholder: |
+        #
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ### ⚠️ Assignees
+        **Note:** Please ensure to assign at least one responsible person to this task. The task cannot proceed without an assignee.
