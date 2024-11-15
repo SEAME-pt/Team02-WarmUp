@@ -38,7 +38,7 @@ This project consists of five modules, each designed to develop and enhance spec
 
 ---
 
-## 🎨 **Module 03: Qt Graphical Applications**  
+### 🟢 **Module 03: Qt Graphical Applications**  
 We developed a **Graphical Phonebook** application using the Qt framework.  
 
 **Features:**  
@@ -56,7 +56,7 @@ We developed a **Graphical Phonebook** application using the Qt framework.
 
 ---
 
-## 🏎️ **Module 04: Multi-Threaded Racing Game**  
+### 🟢 **Module 04: Multi-Threaded Racing Game**  
 
 We created a **multi-threaded racing game** to simulate the dynamics of cars on a race track.
 
