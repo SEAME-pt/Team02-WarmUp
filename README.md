@@ -112,7 +112,6 @@ We are a group of students from **SEA:ME (Software Engineering in Automotive and
     </td>
   </tr>
 </table>
----
 
 ## 💻 **Repository Information**
 
