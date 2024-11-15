@@ -52,7 +52,7 @@ We developed a **Graphical Phonebook** application using the Qt framework.
 
 ---
 
-![Module 03 in Action](../docs/videos/Module03-Video.gif)  
+![Module 03 in Action](docs/videos/Module03-Video.gif)  
 *Example of the Graphical Phonebook interface in action.*
 
 ---
@@ -72,7 +72,7 @@ We created a **multi-threaded racing game** to simulate the dynamics of cars on 
 
 ---
 
-![Module 04 in Action](https://via.placeholder.com/600x300?text=GIF+Placeholder)  
+![Module 04 in Action](docs/videos/Module04-Video.gif) 
 *Example of the Racing Game showcasing real-time car movements.*
 
 ---
