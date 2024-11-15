@@ -92,14 +92,6 @@ We are a group of students from **SEA:ME (Software Engineering in Automotive and
 
 ---
 
-## 🚀 **Future Directions**
-
-- Expand the phonebook application with additional features like contact import/export.  
-- Enhance the racing game with dynamic track layouts and real-time multiplayer functionality.  
-- Explore advanced Qt features for UI/UX improvement.
-
----
-
 ### 📩 **Feedback & Contributions**
 
 We welcome feedback and collaboration! Feel free to open issues or pull requests on our repository.
