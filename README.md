@@ -82,7 +82,7 @@ We are a group of students from **SEA:ME (Software Engineering in Automotive and
 
 | [![Rui Pedro Pires](https://github.com/Rui-Pedro-Pires.png?size=50)](https://github.com/Rui-Pedro-Pires) | [![ziliolu](https://github.com/ziliolu.png?size=50)](https://github.com/ziliolu) | [![Luis FFE](https://github.com/luis-ffe.png?size=50)](https://github.com/luis-ffe) | [![M Jorge Cruz](https://github.com/mjorgecruz.png?size=50)](https://github.com/mjorgecruz) |
 |:-------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-| [Rui Pedro Pires](https://github.com/Rui-Pedro-Pires)                                                  | [ziliolu](https://github.com/ziliolu)                                           | [Luis FFE](https://github.com/luis-ffe)                                           | [M Jorge Cruz](https://github.com/mjorgecruz)                                             |
+| [Rui Pedro Pires](https://github.com/Rui-Pedro-Pires)                                                  | [Luiza Zilio](https://github.com/ziliolu)                                           | [Luis Felipe Carvalho](https://github.com/luis-ffe)                                           | [Jorge Cruz](https://github.com/mjorgecruz)                                             |
 
 
 ---
