@@ -80,10 +80,38 @@ We created a **multi-threaded racing game** to simulate the dynamics of cars on 
 
 We are a group of students from **SEA:ME (Software Engineering in Automotive and Mobility Ecosystems)**, passionate about building solutions for the future of mobility. Our focus lies in mastering advanced software concepts to tackle real-world challenges in the automotive industry.
 
-| <img src="https://github.com/Rui-Pedro-Pires.png?size=50" width="50" height="50" style="border-radius:50%;"> | <img src="https://github.com/ziliolu.png?size=50" width="50" height="50" style="border-radius:50%;"> | <img src="https://github.com/luis-ffe.png?size=50" width="50" height="50" style="border-radius:50%;"> | <img src="https://github.com/mjorgecruz.png?size=50" width="50" height="50" style="border-radius:50%;"> |
-|:------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-| [Rui Pedro Pires](https://github.com/Rui-Pedro-Pires)                                                       | [Luiza Zilio](https://github.com/ziliolu)                                                          | [Luis Felipe Carvalho](https://github.com/luis-ffe)                                                 | [Jorge Cruz](https://github.com/mjorgecruz)                                                             |
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rui-Pedro-Pires">
+        <img src="https://github.com/Rui-Pedro-Pires.png?size=100" width="80" style="border-radius: 50%;" alt="Rui Pedro Pires"/>
+        <br />
+        <sub><b>Rui Pedro Pires</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ziliolu">
+        <img src="https://github.com/ziliolu.png?size=100" width="80" style="border-radius: 50%;" alt="Luiza Zilio"/>
+        <br />
+        <sub><b>Luiza Zilio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/luis-ffe">
+        <img src="https://github.com/luis-ffe.png?size=100" width="80" style="border-radius: 50%;" alt="Luis Felipe Carvalho"/>
+        <br />
+        <sub><b>Luis Felipe Carvalho</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mjorgecruz">
+        <img src="https://github.com/mjorgecruz.png?size=100" width="80" style="border-radius: 50%;" alt="Jorge Cruz"/>
+        <br />
+        <sub><b>Jorge Cruz</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 💻 **Repository Information**
