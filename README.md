@@ -52,7 +52,7 @@ We developed a **Graphical Phonebook** application using the Qt framework.
 
 ---
 
-![Module 03 in Action](https://via.placeholder.com/600x300?text=GIF+Placeholder)  
+![Module 03 in Action](../docs/videos/Module03-Video.gif)  
 *Example of the Graphical Phonebook interface in action.*
 
 ---
@@ -98,14 +98,6 @@ We are a group of students from **SEA:ME (Software Engineering in Automotive and
 - Expand the phonebook application with additional features like contact import/export.  
 - Enhance the racing game with dynamic track layouts and real-time multiplayer functionality.  
 - Explore advanced Qt features for UI/UX improvement.
-
----
-
-### 🛠️ **How to Run**
-
-1. Clone the repository.  
-2. Follow the instructions in the `README` files for each module.  
-3. Run the Qt applications or compile the C++ programs for each exercise.  
 
 ---
 
